@@ -1,0 +1,9 @@
+pandas==2.2.3
+ipykernel
+ipywidgets
+langfuse
+datasets
+llama-index
+llama-index-callbacks-arize-phoenix
+arize-phoenix
+llama-index-vector-stores-chroma
