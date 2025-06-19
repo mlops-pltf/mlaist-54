@@ -161,7 +161,6 @@ class RunPodLLamaAgentQwenLLM(LLM):
     async def achat(
         self, messages: List[ChatMessage], **kwargs
     ) -> NewChatResponse:
-        print("Called with args:", "kwargs:", kwargs)
         # Prepare payload
         payload = {
             # "model": "Qwen/Qwen2.5-Coder-7B-Instruct",
