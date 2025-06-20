@@ -1,0 +1,20 @@
+markdownify
+smolagents
+requests
+duckduckgo_search
+pandas
+smolagents[toolkit]
+smolagents[litellm]
+ipykernel
+ipywidgets
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+openinference-instrumentation-smolagents
+langchain
+langchain-community
+google-search-results
+rank_bm25
+plotly
+geopandas
+# shapely
+# kaleido
